@@ -1,0 +1,13 @@
+@media (min-width:535px) and (max-width: 824px){
+    [class*="col-"]{
+    	width:100%;
+    }
+	form{
+		width: 100%;
+	}
+    section{
+        background:#f998a5;
+        font-family: "Courgette";
+
+    }	
+}
