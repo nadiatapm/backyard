@@ -4,10 +4,15 @@
     }
 	form{
 		width: 100%;
-	}
-    section{
-        background:#f998a5;
-        font-family: "Courgette";
+		
 
-    }	
+	}
+	body{
+		font-family: "Courgette";
+	}
+
+    footer, header{
+    	background-color:#2e933c;
+    }
 }
+
